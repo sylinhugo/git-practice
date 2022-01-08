@@ -1,6 +1,12 @@
 This file is for new-feature branch.
 
-
+What the hell
 Screw up
+<<<<<<< HEAD
 
 Screw up again cc.
+=======
+Screw up by new-feature branch
+cc
+
+>>>>>>> new-feature
